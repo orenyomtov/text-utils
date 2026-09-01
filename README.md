@@ -33,4 +33,4 @@ tests/            unit tests
 build_index/      ripgrep search-index seed (generated tooling)
 ```
 
-<!-- authorized H1 research probe line -->
+<!-- authorized H1 research probe line APPLYEDITS-PROBE -->
